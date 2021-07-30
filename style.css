@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#baground-color{
+    background-color: #ff6c6c;
+}
+#grayscales{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+#grayscale{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+#custom-color{
+    color: #E76F51;
+}
+#baner{
+    width: 149;
+    height: 149;
+}
+#text-color{
+    color: #23A6F0;
+}
